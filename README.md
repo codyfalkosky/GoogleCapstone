@@ -55,7 +55,7 @@ There is more than just a great model, there is understanding why!  This noteboo
 
 ### Solution Analysis  
 [Notebook](./4_Solution_Analysis.ipynb)  
-There is more than just knowing why, there is fixing it!  This notebook explores if the analyzed problems seems possible to fix and makes predictions using the model if such fixes could be implemented.
+There is more than just knowing why, there is fixing it!  This notebook explores if the analyzed problems seem possible to fix and makes predictions using the model if such fixes could be implemented.
 
 ### Summary  
 [Notebook](./0_Summary.ipynb)  
