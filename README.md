@@ -47,15 +47,15 @@ A full run-through of the modeling process.  This notebook contains data scaling
 <br>
 <div id='3'></div>
 
-## A Step Farther
+## A Step Further
 ***
 ### Data Analysis  
 [Notebook](./3_Data_Analysis.ipynb)  
-There is more than just a great model, there is understanding why!  This notebook exploits model insights with shaply values, delves into categorising employees types with clustering, and exploring other data insights.
+There is more than just a great model, there is understanding why!  This notebook exploits model insights with sharply values, delves into categorizing employee types with clustering, and explores other data insights.
 
 ### Solution Analysis  
 [Notebook](./4_Solution_Analysis.ipynb)  
-There is more than just knowing why, there is fixing it!  This notebook explores if the analyised problems seems possible to fix and makes predictions using the model if such fixes could be implemented.
+There is more than just knowing why, there is fixing it!  This notebook explores if the analyzed problems seems possible to fix and makes predictions using the model if such fixes could be implemented.
 
 ### Summary  
 [Notebook](./0_Summary.ipynb)  
