@@ -34,7 +34,7 @@ The capstone project will provide you with valuable experience and data analysis
 
 ## Project
 ***
-Two notebooks accomplishing the project objective of building the best model to predict employees quitting.
+Two notebooks accomplish the project objective of building the best model to predict employees quitting.
 
 ### Data Exploration  
 [Notebook](./1_Data_Exploration_Cleaning.ipynb)  
@@ -42,7 +42,7 @@ The dataset is a csv file of various features including `left`, whether or not t
 
 ### Modeling  
 [Notebook](./2_Modeling.ipynb)  
-A full runthough of the modeling process.  This notebook contains: data scaling, train test split, testing multiple models & hyperparameters with BayesSearchCV and finally chossing the best model.  This is the end of the offical capstone. However...
+A full run-through of the modeling process.  This notebook contains data scaling, train test split, testing multiple models & hyperparameters with BayesSearchCV, and finally, choosing the best model.  This is the end of the official capstone. However...
 
 <br>
 <div id='3'></div>
@@ -59,4 +59,4 @@ There is more than just knowing why, there is fixing it!  This notebook explores
 
 ### Summary  
 [Notebook](./0_Summary.ipynb)  
-A simple executive stakeholder summary.  The simple what is wrong and can we fix it.
+A simple executive stakeholder summary.  The simple what is wrong, and can we fix it?
